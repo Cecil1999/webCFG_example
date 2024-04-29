@@ -13,5 +13,5 @@ Free to use
 
 For right now all I have supported for replacing string
 
-In HTML [% VAL-(variable_name)  %]
+In HTML [% VAL-(variable_name)  %]<br>
 In Main.kt Add variable_name, key to webCFG.globalHashMap
